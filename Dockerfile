@@ -1,4 +1,4 @@
-FROM quay.io/exsules/base
+FROM exsules/base
 
 MAINTAINER exsules <contact@exsules.com>
 
