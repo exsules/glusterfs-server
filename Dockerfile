@@ -1,4 +1,4 @@
-FROM exsules/base
+FROM exsules/base:0.0.1
 
 MAINTAINER exsules <contact@exsules.com>
 
